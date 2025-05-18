@@ -49,17 +49,6 @@ This project implements a **Universal Asynchronous Receiver-Transmitter (UART)**
 - **Simulation**:
   - Testbenches for verifying UART functionality.
 
-### How to Use
-1. Clone this repository to your local machine.
-2. Open the Vivado project and add the RTL files and constraints.
-3. Synthesize, implement, and generate the bitstream.
-4. Deploy the design onto your FPGA board.
 
-## Additional Notes
 
-This project is a work in progress and serves as a personal exploration into FPGA-based UART designs. While the current implementation is functional, further optimizations and enhancements may be added in the future.
 
-Feel free to use or adapt this project for your own experiments or learning purposes!
-
-## License
-This project is licensed under the MIT License.
